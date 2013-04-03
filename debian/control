@@ -2,8 +2,8 @@ Source: debathena-thunderbird-config
 Section: debathena-config/net
 Priority: extra
 Maintainer: Debathena Project <debathena@mit.edu>
-Build-Depends: @cdbs@
-Standards-Version: 3.9.1
+Build-Depends: cdbs, debhelper, dh-buildinfo
+Standards-Version: 3.9.3
 
 Package: debathena-thunderbird-config
 X-Debathena-No-Build: hardy
